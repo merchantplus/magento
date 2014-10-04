@@ -5,6 +5,6 @@ NaviGate Module for Magento
 
 Installation
 
-    - Unzip this archive and copy the files to the location of your Magento CE installation on your web server.
-    -  Configure your settings in Admin panel under System > Configuration > Sales > Payment Methods > "Merchant Plus Gateway"
+    - Download and install plugin or install plugin via Magento Connect. 
+    - Configure your settings in Admin panel under System > Configuration > Sales > Payment Methods > "Merchant Plus Gateway".
     
